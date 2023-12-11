@@ -3,9 +3,10 @@ Open source docker file with introductions and examples on how to use this patre
 
 
 # ToDo:
-
-## Landingpage
-## Request Class with id and timestamp
-### Delete Request after 15 min not fetched
-## code Refactoring
-## hardcoded vars into env 
+<ol>
+<li> Landingpage
+<li> Request Class with id and timestamp
+<li> Delete Request after 15 min not fetched
+<li> code Refactoring
+<li> hardcoded vars into env 
+</ol>ol>
