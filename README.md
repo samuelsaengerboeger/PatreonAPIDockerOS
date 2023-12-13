@@ -20,11 +20,10 @@ The client is given feedback, that an answer is available.
 The client then requests and gets the response from the Server with the requested informations (pledgeAmount, e.g.)
 
 
-![Fow Chart](https://github.com/samuelsaengerboeger/PatreonAPIDockerOS/blob/samuelsaengerboeger-patch-1/PatreonAblauf.jpg
-)
+![Fow Chart](https://github.com/samuelsaengerboeger/PatreonAPIDockerOS/blob/samuelsaengerboeger-patch-1/Documentation/Drawings/pictures/Ablauf%20Kommunikation%202.jpg)
 
 
-![Communication Chart](https://github.com/samuelsaengerboeger/PatreonAPIDockerOS/blob/samuelsaengerboeger-patch-1/Ablauf%20Kommunikation.jpg)
+![Communication Chart](https://github.com/samuelsaengerboeger/PatreonAPIDockerOS/blob/samuelsaengerboeger-patch-1/Documentation/Drawings/pictures/PatreonAblauf%202.drawio.png)
 # ToDo:
 <ul>
 <li> Landingpage
